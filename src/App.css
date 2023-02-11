@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.add-Form-container{
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.navbar-color{
+  background-color: #712cf9;
+}
+
+.list{
+  padding-top: 25px;
+}
